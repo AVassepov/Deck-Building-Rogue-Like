@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Dice
+  - Enemy
+  - Coin
+  - Discard
+  - Room
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Corridor Maker
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 9
+    uniqueID: 2978456587
+    locked: 0
+  - name: 8
+    uniqueID: 1909736605
+    locked: 0
+  - name: 7
+    uniqueID: 1023728471
+    locked: 0
+  - name: 6
+    uniqueID: 2535507559
+    locked: 0
+  - name: 5
+    uniqueID: 473416389
+    locked: 0
+  - name: 4
+    uniqueID: 2263523075
+    locked: 0
+  - name: 3
+    uniqueID: 203474903
+    locked: 0
+  - name: 2
+    uniqueID: 477051325
+    locked: 0
+  - name: 1
+    uniqueID: 1934142809
+    locked: 0
+  - name: 0
+    uniqueID: 2596147557
+    locked: 0
+  - name: Inspecting Card
+    uniqueID: 3745334223
+    locked: 0
+  - name: Line Renderer
+    uniqueID: 2076961445
+    locked: 0
+  - name: Show Pile
+    uniqueID: 2532237755
+    locked: 0
+  - name: Show Pile Text
+    uniqueID: 4096853521
+    locked: 0
+  - name: UI ForeGround
+    uniqueID: 244474957
+    locked: 0
+  - name: UI Text
+    uniqueID: 2665801869
+    locked: 0
+  - name: Top of UI
+    uniqueID: 3345253765
+    locked: 0

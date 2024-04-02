@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &9072232072300422926
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3098323886139695206, guid: 4492504bf329c854d8fc7bc7ade43e68, type: 3}
+      propertyPath: CardInfo
+      value: 
+      objectReference: {fileID: 11400000, guid: 7a15ce7aaec545d46a5de39da7a2bc18, type: 2}
+    - target: {fileID: 3228315496754568777, guid: 4492504bf329c854d8fc7bc7ade43e68, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3228315496754568777, guid: 4492504bf329c854d8fc7bc7ade43e68, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3228315496754568777, guid: 4492504bf329c854d8fc7bc7ade43e68, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3228315496754568777, guid: 4492504bf329c854d8fc7bc7ade43e68, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3228315496754568777, guid: 4492504bf329c854d8fc7bc7ade43e68, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3228315496754568777, guid: 4492504bf329c854d8fc7bc7ade43e68, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3228315496754568777, guid: 4492504bf329c854d8fc7bc7ade43e68, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3228315496754568777, guid: 4492504bf329c854d8fc7bc7ade43e68, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3228315496754568777, guid: 4492504bf329c854d8fc7bc7ade43e68, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3228315496754568777, guid: 4492504bf329c854d8fc7bc7ade43e68, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3228315496754568777, guid: 4492504bf329c854d8fc7bc7ade43e68, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3228315496754568782, guid: 4492504bf329c854d8fc7bc7ade43e68, type: 3}
+      propertyPath: m_Name
+      value: Rapier Strike+
+      objectReference: {fileID: 0}
+    - target: {fileID: 3228315496929666480, guid: 4492504bf329c854d8fc7bc7ade43e68, type: 3}
+      propertyPath: m_Color.rgba
+      value: 4278214146
+      objectReference: {fileID: 0}
+    - target: {fileID: 8514752557250173476, guid: 4492504bf329c854d8fc7bc7ade43e68, type: 3}
+      propertyPath: CardInfo
+      value: 
+      objectReference: {fileID: 11400000, guid: 7a15ce7aaec545d46a5de39da7a2bc18, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 4492504bf329c854d8fc7bc7ade43e68, type: 3}

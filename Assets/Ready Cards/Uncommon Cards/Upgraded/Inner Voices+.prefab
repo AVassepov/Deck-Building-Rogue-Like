@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7982454435486570650
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1527982456888670612, guid: b6ee674b00f0a9046b068289d8ca11b7, type: 3}
+      propertyPath: CardInfo
+      value: 
+      objectReference: {fileID: 11400000, guid: 074df6e1a49332f4c9033c29adaa5b19, type: 2}
+    - target: {fileID: 5323664379989230550, guid: b6ee674b00f0a9046b068289d8ca11b7, type: 3}
+      propertyPath: CardInfo
+      value: 
+      objectReference: {fileID: 11400000, guid: 074df6e1a49332f4c9033c29adaa5b19, type: 2}
+    - target: {fileID: 5752018611128485376, guid: b6ee674b00f0a9046b068289d8ca11b7, type: 3}
+      propertyPath: m_Color.rgba
+      value: 4278214146
+      objectReference: {fileID: 0}
+    - target: {fileID: 5752018611471367673, guid: b6ee674b00f0a9046b068289d8ca11b7, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5752018611471367673, guid: b6ee674b00f0a9046b068289d8ca11b7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5752018611471367673, guid: b6ee674b00f0a9046b068289d8ca11b7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5752018611471367673, guid: b6ee674b00f0a9046b068289d8ca11b7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5752018611471367673, guid: b6ee674b00f0a9046b068289d8ca11b7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5752018611471367673, guid: b6ee674b00f0a9046b068289d8ca11b7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5752018611471367673, guid: b6ee674b00f0a9046b068289d8ca11b7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5752018611471367673, guid: b6ee674b00f0a9046b068289d8ca11b7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5752018611471367673, guid: b6ee674b00f0a9046b068289d8ca11b7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5752018611471367673, guid: b6ee674b00f0a9046b068289d8ca11b7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5752018611471367673, guid: b6ee674b00f0a9046b068289d8ca11b7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5752018611471367678, guid: b6ee674b00f0a9046b068289d8ca11b7, type: 3}
+      propertyPath: m_Name
+      value: Inner Voices+
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b6ee674b00f0a9046b068289d8ca11b7, type: 3}

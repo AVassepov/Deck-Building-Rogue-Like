@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6257675b70d67648894cd5b459fb554, type: 3}
+  m_Name: Lost Boys
+  m_EditorClassIdentifier: 
+  enemies:
+  - {fileID: 4991200585371431426, guid: d46c3d7ab40455343952505c2c38a027, type: 3}
+  - {fileID: 4991200585371431426, guid: d46c3d7ab40455343952505c2c38a027, type: 3}
+  - {fileID: 4991200585371431426, guid: d46c3d7ab40455343952505c2c38a027, type: 3}
+  IsBoss: 0
+  IsElite: 0
